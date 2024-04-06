@@ -22,5 +22,8 @@ class MainActivity : AppCompatActivity() {
 
 
         Log.d("sss","111")
+
+        Log.d("sss","222")
+
     }
 }
